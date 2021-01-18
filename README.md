@@ -8,5 +8,7 @@ D3.js is a JavaScript library for producing dynamic, interactive data visualizat
 
 **Link: https://sayantan-world.github.io/USA-Education-Choropleth-Map/**
 
+If you are interested to know more and do this project, visit <a href="https://www.freecodecamp.org/learn/data-visualization/data-visualization-projects/visualize-data-with-a-choropleth-map">here</a>.
+
 ### Screenshot
 ![](https://github.com/Sayantan-world/USA-Education-Choropleth-Map/blob/main/Images/sc_shot.png?raw=true)
